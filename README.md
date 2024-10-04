@@ -1,7 +1,5 @@
 # Práctica 2
 
-```markdown
-# Práctica 2
 
 ## Comproba que tes a imaxe httpd
 
