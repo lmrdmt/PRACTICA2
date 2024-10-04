@@ -8,7 +8,7 @@
 ```bash
 docker images
 ```
-
+ 
 Se non tes a imaxe, descárgaa:
 
 ```bash
